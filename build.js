@@ -1,1 +1,1 @@
-window.AschJS = AschJS = require('./index.js');
+window.AosJS = AosJS = require('./index.js');
